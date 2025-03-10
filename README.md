@@ -1,4 +1,5 @@
 # Parcial-1-Pensamiento-Algoritmico
+### Juan Felipe Gonzalez B. y Sofia Caro
 
 En este repositorio se le da una solución al problema sobre los tipos de radioactividad, teniendo como contenido un archivo PDF y una carpeta con cada uno de los lenguajes solicitados.
 
